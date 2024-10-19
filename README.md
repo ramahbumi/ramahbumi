@@ -9,6 +9,7 @@ Ramah Bumi Consortium Token adalah project cryptocurrency yang fokus pada inisia
 **total pasokan**:1000000000
 
 
+
 ![Logo Ramah Bumi](https://i.postimg.cc/RVNyswGY/rbclogook.png)
 
 <!---
