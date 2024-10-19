@@ -8,7 +8,8 @@ Ramah Bumi Consortium Token adalah project cryptocurrency yang fokus pada inisia
 
 **total pasokan**:1000000000
 
-![Logo Ramah Bumi](https://imgur.com/a/wEUrcJl)<!
+
+![Logo Ramah Bumi](https://imgur.com/a/wEUrcJl)
 
 <!---
 ramahbumi/ramahbumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
